@@ -1,0 +1,1 @@
+{"version":3,"sources":["styles.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,cAAe,CACf,aACF,CAEA,GACE,eACF,CAEA,EACE,oBACF","file":"styles.33d19c25.css","sourceRoot":"..\\src","sourcesContent":["body {\r\n  padding: 20px;\r\n  font-size: 30px;\r\n  line-height: 2;\r\n}\r\n\r\nul {\r\n  list-style: none;\r\n}\r\n\r\na {\r\n  text-decoration: none;\r\n}\r\n"]}
